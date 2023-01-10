@@ -160,7 +160,7 @@ else{
     ?>
 </div>
   <div class="container my-4">
-    <h2>Add a Note to iNotes</h2>
+    <h2>Add a Note</h2>
     <form action="/index.php" method="POST">
       <div class="form-group">
         <label for="title">Note Title</label>
