@@ -171,7 +171,7 @@ else{
         <label for="desc">Note Description</label>
         <textarea class="form-control" id="description" name="description" rows="3"></textarea>
       </div>
-      <button type="submit" class="btn btn-primary">Add Note</button>
+      <button type="submit" class="btn btn-primary mt-4">Add Note</button>
     </form>
   </div>
 
